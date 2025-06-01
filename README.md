@@ -11,7 +11,7 @@ This repository contains JMeter performance test plans and related files for the
 - Other supporting files as needed
 
 ## How to Run
-1. Open the `contact-list-test.jmx` file in Apache JMeter.
+1. Open the `ContactListApp_API.jmx` file in Apache JMeter.
 2. Configure any required parameters (e.g., server URL).
 3. Run the test plan to simulate load and capture performance data.
 4. Check the report for metrics and observations.
